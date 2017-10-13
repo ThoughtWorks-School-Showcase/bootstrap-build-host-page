@@ -1,17 +1,17 @@
-## Make a simple complete page via Bootstrap and CSS
+# Make a simple complete page via Bootstrap and CSS
 ## Business Requirements:
 
-Implement the target page, write HTML code in the `index.html` file, write related CSS code in the `style.css` file.
+Implement the target page, write HTML code in the `index.html` file, write related CSS code in the style.css file.
 Target Page：http://v2.bootcss.com/examples/carousel.html
 
 Screenshot：
-![](./mockup.png)
+
 
 ## Practice Challenges:
 * Build a complete web page, including the layout and display style.
-* Analyze the whole page structure clealy.
+* Analyze the whole page structure clearly.
 * Apply the Bootstrap Grid to complete the page layout.
-* Apply Bootstrap navbar component to implement nabigation bar.
+* Apply Bootstrap navbar component to implement navigation bar.
 * Apply Bootstrap thumbnail and img-circle components to implement content display like text , image etc.
 * Apply Bootstrap carousel component to implement picture Rotation display.
 
@@ -38,7 +38,7 @@ git clone https://github.com/tws-online-quiz/bootstrap-build-host-page
 ```
 Stack Initial and build:
 
-Open the index.html with browser direatly, you will see the result of any change.
+Open the index.html with browser directly, you will see the result of any change.
 
 ## Learning Resourse(Chinese Version):
 CSS W3school教程：http://www.w3school.com.cn/css/index.asp
