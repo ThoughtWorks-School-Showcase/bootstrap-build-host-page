@@ -1,7 +1,7 @@
 ## Make a simple complete page via Bootstrap and CSS
 ## Business Requirements:
 
-Implement the target page, write HTML code in the `index.html` file, write related CSS code in the style.css file.
+Implement the target page, write HTML code in the `index.html` file, write related CSS code in the `style.css` file.
 Target Page：http://v2.bootcss.com/examples/carousel.html
 
 Screenshot：
