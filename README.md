@@ -1,32 +1,32 @@
-# Make simple complete page via Bootstrap and CSS
+## Make a simple complete page via Bootstrap and CSS
 ## Business Requirements:
 
-Implemant the target page, write HTML code in the `index.html` file, write related CSS code in the style.css file.
-Target Page online：http://v2.bootcss.com/examples/carousel.html
+Implement the target page, write HTML code in the `index.html` file, write related CSS code in the `style.css` file.
+Target Page：http://v2.bootcss.com/examples/carousel.html
 
 Screenshot：
 ![](./mockup.png)
 
 ## Practice Challenges:
-* Build a complete web page, includs layout and display style.
-* Analysis the whole page structure clealy.
-* Apply the Bootstrap Grid complete the page layout.
-* Apply Bootstrap navbar component implement nabigation bar.
-* Apply Bootstrap thumbnail and img-circle components implement content display like text , image etc.
-* Apply Bootstrap carousel component implement picture Rotation display.
+* Build a complete web page, including the layout and display style.
+* Analyze the whole page structure clealy.
+* Apply the Bootstrap Grid to complete the page layout.
+* Apply Bootstrap navbar component to implement nabigation bar.
+* Apply Bootstrap thumbnail and img-circle components to implement content display like text , image etc.
+* Apply Bootstrap carousel component to implement picture Rotation display.
 
 ## Practice Requirements:
 
 * Only allow use HTML CSS and Bootstrap.
-* Must use Bootstrap component which are navbar,  thumbnail, img-circle and carousel.
-* Bootstrap Grid  shoule be the main layout way.
-* The page style could be different, but feature must be implemented.
+* Use Bootstrap component which are navbar,  thumbnail, img-circle and carousel.
+* Use Bootstrap Grid to manage the main layout.
+* The page style could be different, but the feature must be implemented.
 
 ## Practice Output:
-Please push your practice repo to the incated site which coach will tell you.
-Repository should includes：
+Please push your practice repo to the site which the trainer will tell you.
+The Repository should includes：
 1. Implemented code
-2. Screenshot after all code compleled
+2. Screenshot after all code completed
 
 ## Environment Require
 Chrome
@@ -40,7 +40,7 @@ Stack Initial and build:
 
 Open the index.html with browser direatly, you will see the result of any change.
 
-## Learn Resourse(Chinese Version):
+## Learning Resourse(Chinese Version):
 CSS W3school教程：http://www.w3school.com.cn/css/index.asp
 Bootstrap中文文档：http://www.bootcss.com/
 CSS盒子模型（http://www.w3school.com.cn/css/css_boxmodel.asp）
