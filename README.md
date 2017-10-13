@@ -5,7 +5,7 @@ Implement the target page, write HTML code in the `index.html` file, write relat
 Target Page：http://v2.bootcss.com/examples/carousel.html
 
 Screenshot：
-
+![](./mockup.png)
 
 ## Practice Challenges:
 * Build a complete web page, including the layout and display style.
