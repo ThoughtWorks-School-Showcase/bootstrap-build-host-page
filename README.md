@@ -41,9 +41,9 @@ Stack Initial and build:
 Open the index.html with browser directly, you will see the result of any change.
 
 ## Learning Resourse(Chinese Version):
-CSS W3school教程：http://www.w3school.com.cn/css/index.asp
-Bootstrap中文文档：http://www.bootcss.com/
-CSS盒子模型（http://www.w3school.com.cn/css/css_boxmodel.asp）
-栅格系统（http://v3.bootcss.com/css/#grid）
+1. CSS W3school教程：http://www.w3school.com.cn/css/index.asp
+2. Bootstrap中文文档：http://www.bootcss.com/
+3. CSS盒子模型（http://www.w3school.com.cn/css/css_boxmodel.asp）
+4. 栅格系统（http://v3.bootcss.com/css/#grid）
 什么是响应式设计（https://www.zhihu.com/question/20976405）
-Bootstrap UI组件使用方法（http://v3.bootcss.com/components/）
+5. Bootstrap UI组件使用方法（http://v3.bootcss.com/components/）
